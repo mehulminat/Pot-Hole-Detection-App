@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "290391348778",
+    "firebase_url": "https://pot-hole-detection-system-default-rtdb.firebaseio.com",
+    "project_id": "pot-hole-detection-system",
+    "storage_bucket": "pot-hole-detection-system.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:290391348778:android:efffa53eeb64a06d9dd553",
+        "android_client_info": {
+          "package_name": "com.murtaza.harsh_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "290391348778-ah5k2ct5r618c3c95mfimvp06pkifqkq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBnB83hW1GVp0cNlIf3IYrBBGVXvH-Yfb4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "290391348778-ah5k2ct5r618c3c95mfimvp06pkifqkq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
